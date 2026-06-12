@@ -1,0 +1,12 @@
+# Ignorar do Python (Backend)
+time-machine-api/venv/
+time-machine-api/env/
+time-machine-api/historico.db
+time-machine-api/__pycache__/
+time-machine-api/.env
+*.pyc
+.env
+
+# Ignorar do React (Frontend)
+time-machine-app/node_modules/
+time-machine-app/dist/

@@ -1,0 +1,13 @@
+# Ambientes Virtuais
+venv/
+env/
+
+# Banco de dados local
+historico.db
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente (se usarmos no futuro)
+.env
