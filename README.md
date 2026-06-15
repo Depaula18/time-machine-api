@@ -231,6 +231,9 @@ sequenceDiagram
 - Configurar CI/CD para build, lint e deploy automático.
 - Publicar a extensão na Chrome Web Store.
 
+## Política de Privacidade
+- Esta extensão coleta e armazena apenas as URLs que resultam em erros 404 para o propósito exclusivo de buscar suas versões arquivadas. Nenhum dado de identificação pessoal do usuário é coletado, armazenado ou compartilhado com terceiros.
+
 ## 👨‍💻 Autor
 
 Murilo de Paula — [@Depaula18](https://github.com/Depaula18)
